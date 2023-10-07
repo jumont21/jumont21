@@ -23,25 +23,38 @@
 ### Habilidades Principais
 
 - **Conhecimento Básico em Design Gráfico**
-- **Estudando Análise e Desenvolvimento de Sistemas**
+- **...**
+
+  ## Habilidades
+
+| Soft Skills          | Hard Skills                                                                                |
+|---------------------|---------------------------------------------------------------------------------------------|
+| Comunicação        |     Bancos de Dados       |
+| Trabalho em Equipe |       Desenvolvimento Web    |
+| Resolução de Conflitos |  Linguagens de Programação   |
+| Gerenciamneto de Tempo  |      Engenharia de Software     |
+| Pensamento Crítico  |
+| Liderança  |
+
 
 
 ## Linguagens de Programação 
 
-| Linguagem             | Ícone                           |
-|-----------------------|---------------------------------|
-| VBA                | <img height="20" src="url_do_icone_python" alt="Python Icon"> | 
-| VB.NET           | <img height="20" src="url_do_icone_js" alt="JavaScript Icon"> | 
-| C                  | <img height="20" src="url_do_icone_java" alt="Java Icon"> | 
-| C ++                 | <img height="20" src="url_do_icone_java" alt="Java Icon"> | 
-| HTML/CSS              | <img height="20" src="url_do_icone_html_css" alt="HTML/CSS Icon"> | 
-| JavaScript            | <img height="20" src="url_do_icone_html_css" alt="HTML/CSS Icon"> | 
-| PHP            | <img height="20" src="url_do_icone_html_css" alt="HTML/CSS Icon"> | 
-| Java                   | <img height="20" src="url_do_icone_cpp" alt="C++ Icon"> | 
-| Cobol                  | <img height="20" src="url_do_icone_ruby" alt="Ruby Icon"> | 
-| Kotlin                  | <img height="20" src="url_do_icone_ruby" alt="Ruby Icon"> | 
-------------------------------------------------------------|
+## Linguagens de Programação e Ícones
 
+- **VBA:** <img height="20" src="https://img.icons8.com/ios/452/visual-basic.png" alt="VBA Icon">
+- **VB.NET:** <img height="20" src="https://img.icons8.com/ios/452/visual-basic.png" alt="VB.NET Icon">
+- **C:** <img height="20" src="https://img.icons8.com/color/452/c-programming.png" alt="C Icon">
+- **C++:** <img height="20" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="C++ Icon">
+- **HTML/CSS:** <img height="20" src="https://img.icons8.com/color/452/html-5.png" alt="HTML/CSS Icon">
+- **JavaScript:** <img height="20" src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript Icon">
+- **PHP:** <img height="20" src="https://img.icons8.com/ios/452/php-logo.png" alt="PHP Icon">
+- **Java:** <img height="20" src="https://img.icons8.com/color/452/java-coffee-cup-logo.png" alt="Java Icon">
+- **Cobol:** <img height="20" src="https://img.icons8.com/ios/452/cobol.png" alt="Cobol Icon">
+- **Kotlin:** <img height="20" src="https://img.icons8.com/color/452/kotlin.png" alt="Kotlin Icon">
+
+
+         
 
 ### Contato
 
