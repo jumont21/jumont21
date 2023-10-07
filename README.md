@@ -9,9 +9,9 @@
 
 ### Algumas Informações Rápidas
 
-- **Último Commit:** ![GitHub commits](https://img.shields.io/github/last-commit/jumont21/jumont21)
-- **Issues Abertas:** ![GitHub issues](https://img.shields.io/github/issues/jumont21/jumont21)
-- **[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO)](https://github.com/anuraghazra/github-readme-stats)**
+<span style="color:pink;">[![📊 Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jumont21&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)</span>
+
+
 
 
 
